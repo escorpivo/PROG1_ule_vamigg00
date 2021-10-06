@@ -1,10 +1,10 @@
-Programación -https://dle.rae.es/programaci%C3%B3n
-Ordenador -https://dle.rae.es/ordenador?m=form
-Hackear -https://dle.rae.es/hackear?m=form
-estudiar -https://dle.rae.es/estudiar?m=form
-universidad -https://dle.rae.es/universidad?m=form
-procesador -https://dle.rae.es/procesador?m=form
-teclado -https://dle.rae.es/teclado?m=form
-estrafalario -https://dle.rae.es/estrafalario?m=form
-parafernalia -https://dle.rae.es/parafernalia?m=form
-caleidoscopio -https://dle.rae.es/caleidoscopio?m=form
+Programación - https://dle.rae.es/programaci%C3%B3n
+Ordenador - https://dle.rae.es/ordenador?m=form
+Hackear - https://dle.rae.es/hackear?m=form
+estudiar - https://dle.rae.es/estudiar?m=form
+universidad - https://dle.rae.es/universidad?m=form
+procesador - https://dle.rae.es/procesador?m=form
+teclado - https://dle.rae.es/teclado?m=form
+estrafalario - https://dle.rae.es/estrafalario?m=form
+parafernalia - https://dle.rae.es/parafernalia?m=form
+caleidoscopio - https://dle.rae.es/caleidoscopio?m=form
